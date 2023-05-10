@@ -1,0 +1,28 @@
+@media screen and (min-device-height: 780px) and (orientation: landscape) {
+  .footer-1 {
+    padding-top: 3rem;
+  }
+}
+
+@media screen and (max-device-width: 1024px) and (orientation: landscape) {
+  .grid-1 {
+    height: auto;
+    width: 100%;
+  }
+}
+
+/* @media screen and (max-device-width: 1000px),
+  (max-device-height: 1024px) and (orientation: landscape) {
+  .grid-1 {
+    height: auto;
+    width: 100%;
+  }
+} */
+
+/* @media screen and (max-device-width: 1000px),
+  (max-device-height: 1000px) and (orientation: portrait) {
+  .grid-1 {
+    height: auto;
+    width: 100%;
+  }
+} */
